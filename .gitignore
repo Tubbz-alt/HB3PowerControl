@@ -1,0 +1,8 @@
+# Files created by MPLAB during build
+#####################################
+*.o
+*.hex
+*.map
+*.cof
+*.mcs
+*.mcw
